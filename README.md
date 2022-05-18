@@ -2,4 +2,4 @@
 
 Mijn eerste Repo :)
 
-Hierin zal ik mogelijke experimenteren met de functies van git.
+Hierin zal ik mogelijk experimenteren met de functies van git.
