@@ -2,4 +2,6 @@
 
 Mijn eerste Repo :)
 
-Hierin zal ik mogelijk experimenteren met de functies van git.
+Deze reposetory is een onderdeel van onze eerste Git opdracht.
+
+Hierin experimenteer ik ook met de functies van git.
